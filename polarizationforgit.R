@@ -5,6 +5,7 @@ library(ggtext)
 library(showtext)
 library(patchwork)
 
+#######This version available on git https://github.com/matttgross/polarizationplot 
 
 file_path <- 
 
